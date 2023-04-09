@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sasha, an <a href="https://www.linkedin.com/in/sasharuiz210/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Sasha, an <a href="https://www.linkedin.com/in/sasharuiz210/">aspiring IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
